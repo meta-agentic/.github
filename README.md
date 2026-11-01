@@ -8,6 +8,7 @@ own copy, so a single change covers them all.
 | File | Applies to |
 |------|-----------|
 | [SECURITY.md](SECURITY.md) | Every repository without its own `SECURITY.md` |
+| [profile/README.md](profile/README.md) | The organisation's public profile page, with its banner |
 
 Security reports go through **GitHub private vulnerability reporting** — the *Security* tab
 on the affected repository, *Report a vulnerability*. Please do not open a public issue for a
